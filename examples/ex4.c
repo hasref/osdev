@@ -1,8 +1,8 @@
 
 // ex4.c: replace a process with an executable file
 
-#include "kernel/types.h"
-#include "user/user.h"
+#include "../kernel/types.h"
+#include "../user/user.h"
 
 int
 main()

@@ -1,8 +1,8 @@
 
 // ex3.c: create a new process with fork()
 
-#include "kernel/types.h"
-#include "user/user.h"
+#include "../kernel/types.h"
+#include "../user/user.h"
 
 int
 main()

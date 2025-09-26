@@ -1,6 +1,6 @@
 
-#include "kernel/types.h"
-#include "user/user.h"
+#include "../kernel/types.h"
+#include "../user/user.h"
 
 // ex5.c: fork then exec
 

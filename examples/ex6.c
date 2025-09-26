@@ -1,7 +1,7 @@
 
-#include "kernel/types.h"
-#include "user/user.h"
-#include "kernel/fcntl.h"
+#include "../kernel/types.h"
+#include "../user/user.h"
+#include "../kernel/fcntl.h"
 
 // ex6.c: run a command with output redirected
 

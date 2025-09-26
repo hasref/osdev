@@ -1,8 +1,8 @@
 
 // ex1.c: copy input to output.
 
-#include "kernel/types.h"
-#include "user/user.h"
+#include "../kernel/types.h"
+#include "../user/user.h"
 
 int
 main()

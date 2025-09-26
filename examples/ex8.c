@@ -1,7 +1,7 @@
 
 
-#include "kernel/types.h"
-#include "user/user.h"
+#include "../kernel/types.h"
+#include "../user/user.h"
 
 // ex8.c: communication between two processes
 
